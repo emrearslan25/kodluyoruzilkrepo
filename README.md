@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# ilk-repo
-=======
+
 # Kodluyoruz Ilk Repo
 
-![KodluyoruzRepo](github.png)
+![KodluyoruzRepo]([github.png](https://github.com/nergiskuzucu/kodluyoruzilkrepo/blob/main/github.png))
 
 Bu repo [Kodluyoruz] (https://www.kodluyoruz.org) .Net Core Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
