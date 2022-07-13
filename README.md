@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) .Net Core Eğitiminde oluşturd
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-> git clone https://github.com/emrearslan25/kodluyoruzilkrepo.git
+' git clone https://github.com/emrearslan25/kodluyoruzilkrepo.git '
 
 # Usage
 
@@ -16,8 +16,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-> cd kodluyoruzilkrepo
-code .
+' cd kodluyoruzilkrepo
+code . '
 
 # Contributing
 
