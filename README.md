@@ -29,4 +29,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 
 [MIT] (https://choosealicense.com/licenses/mit/)
->>>>>>> 3ef6f75 (ilk repo tamamlandı)
